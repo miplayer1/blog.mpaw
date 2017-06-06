@@ -163,7 +163,7 @@ header {
 main {
 	float: left;
 	width: 80%;
-	padding-left: 10%;
+	padding: 10%;
 	text-align: justify;
 }
 
@@ -236,7 +236,7 @@ aside a:hover, main a:hover {
 }
 
 
-footer {
+.panel-footer {
 	background-color: #2F4858;
 
 }
